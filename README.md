@@ -5,7 +5,7 @@
 
 ## Screenshots
 ⛺Homepage:
-
+![image alt](https://github.com/Divanshugaur001/Amazon-Clone/blob/01bafd6017ee6dad38c7479fd790ac63140df5ed/rer.JPG)
 
 
 ## Project Overview
