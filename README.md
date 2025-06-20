@@ -4,7 +4,8 @@
 
 
 ## Screenshots
-⛺Homepage:
+⛺Homepage:  
+
 ![image alt](https://github.com/Divanshugaur001/Amazon-Clone/blob/01bafd6017ee6dad38c7479fd790ac63140df5ed/rer.JPG)
 
 
@@ -18,12 +19,12 @@
 
 ## Features
 
-"*" 📱 Fully responsive design for mobile ,tablet and desktop devices.
-"*" 🎯Responsive header with logo,searchbar,account option and cart icon.
-"*" 🌄 Hero section with localixedcontent and banner message.
-"*" 📦Product listing with clickable box and image.
-"*" 📄 Footer with multiple-columns and links similar to amazon extensive footer.
+ 📱 Fully responsive design for mobile ,tablet and desktop devices.  
+ 🎯Responsive header with logo,searchbar,account option and cart icon.  
+🌄 Hero section with localixedcontent and banner message.  
+📦Product listing with clickable box and image.  
+📄 Footer with multiple-columns and links similar to amazon extensive footer.  
 
 
-🔔##Feedback
+🔔 ##Feedback
 feel free to open aissue or sumit and pull request if u suggest improvent.📄
