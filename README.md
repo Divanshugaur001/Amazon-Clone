@@ -11,18 +11,18 @@
 ## Project Overview
 ⚒ Technology Used
 
-✅HTML5
-✅CSS
-✅Font Awesome(icons)
+✅HTML5  
+✅CSS  
+✅Font Awesome(icons)  
 
 
 ## Features
 
--📱 Fully responsive design for mobile ,tablet and desktop devices.
-- 🎯Responsive header with logo,searchbar,account option and cart icon.
--🌄 Hero section with localixedcontent and banner message.
--📦Product listing with clickable box and image.
--📄 Footer with multiple-columns and links similar to amazon extensive footer.
+"*" 📱 Fully responsive design for mobile ,tablet and desktop devices.
+"*" 🎯Responsive header with logo,searchbar,account option and cart icon.
+"*" 🌄 Hero section with localixedcontent and banner message.
+"*" 📦Product listing with clickable box and image.
+"*" 📄 Footer with multiple-columns and links similar to amazon extensive footer.
 
 
 🔔##Feedback
