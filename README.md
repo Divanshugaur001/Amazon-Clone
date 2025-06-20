@@ -26,5 +26,5 @@
 📄 Footer with multiple-columns and links similar to amazon extensive footer.  
 
 
-🔔 ##Feedback
+🔔 ## Feedback
 feel free to open aissue or sumit and pull request if u suggest improvent.📄
